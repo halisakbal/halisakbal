@@ -21,8 +21,29 @@
 
 - ⚡ Fun fact **I think I am funny.**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/https://codepen.io/halisakbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/halisakbal" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/halisakbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/halisakbal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/halis-akbal-bb16a3261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/halis-akbal-bb16a3261/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21214353/halis-akbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21214353/halis-akbal" height="30" width="40" /></a>
+<a href="https://codesandbox.com/https://codesandbox.io/u/halisakbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/halisakbal" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/halisakbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/halisakbal" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://dribbble.com/halisakbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/halisakbal" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/halisakbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/halisakbal" height="30" width="40" /></a>
+<a href="https://hashnode.com/https://hashnode.com/@halisakbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@halisakbal" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@halisakbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@halisakbal" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/halisakbal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/halisakbal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/halisakbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/halisakbal" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/halisakbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/halisakbal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/halisakbal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/halisakbal/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerearth.com/@halis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@halis" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/halisakbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/halisakbal" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/https://platform.topcoder.com/profile/halisakbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://platform.topcoder.com/profile/halisakbal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
