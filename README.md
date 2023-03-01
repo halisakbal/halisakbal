@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **C & C++**
 
-- 📫 How to reach me **halisakbal@gmail.com**
+- 📫 How to reach me ***halisakbal@outlook.com***
 
 - ⚡ Fun fact **I think I am funny.**
 
