@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Halis AKBAL</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
+## [![Github](https://img.shields.io/github/followers/halisakbal?label=Follow&style=social)](https://github.com/halisakbal) [![Github](https://img.shields.io/github/stars/halisakbal?label=Star&style=social)](https://github.com/halisakbal)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halisakbal&label=Profile%20views&color=0e75b6&style=flat" alt="halisakbal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halisakbal" alt="halisakbal" /></a> </p>
