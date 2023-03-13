@@ -58,3 +58,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=halisakbal&show_icons=true&locale=en" alt="halisakbal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halisakbal&" alt="halisakbal" /></p>
+
+
+![snake gif](https://github.com/halisakbal/halisakbal/blob/output/github-contribution-grid-snake.gif)
