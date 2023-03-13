@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Halis AKBAL</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
+<h3 align="center">A passionate developer from Turkey</h3> </p>
 
- </p>
+
 ## [![Github](https://img.shields.io/github/followers/halisakbal?label=Follow&style=social)](https://github.com/halisakbal) [![Github](https://img.shields.io/github/stars/halisakbal?label=Star&style=social)](https://github.com/halisakbal)
 
 
