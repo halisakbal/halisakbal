@@ -60,4 +60,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halisakbal&" alt="halisakbal" /></p>
 
 
-![snake gif](https://github.com/halisakbal/halisakbal/blob/output/github-contribution-grid-snake.gif)
+
